@@ -40,13 +40,20 @@ import { projects } from "@/cv.json";
   }
 
   article {
-    border-radius: 8px;
-    border: 1px solid #f2f2f2;
+    background-color: #aab99f;
+    border-radius: 10px;
+    border: 1px solid #b4b3b3;
     gap: 16px;
     display: flex;
     flex-direction: column;
     padding: 14px;
     height: 100%;
+    transition: transform 0.3s;
+    box-shadow: -5px 5px 10px 0px rgba(0,0,0,0.75);
+  }
+
+  article:hover {
+    transform: scale(1.05);
   }
 
   article header {
