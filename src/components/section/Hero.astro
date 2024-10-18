@@ -7,6 +7,7 @@ import GitHub from "@/icons/GitHub.astro";
 import X from "@/icons/X.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
 import WorldMap from "@/icons/WorldMap.astro";
+import Whatsapp from "@/icons/whatsapp.astro";
 
 const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
@@ -15,6 +16,7 @@ const SOCIAL_ICONS: Record<string, any> = {
   GitHub,
   X,
   LinkedIn,
+  Whatsapp,
 };
 ---
 
@@ -47,7 +49,7 @@ const SOCIAL_ICONS: Record<string, any> = {
             </a>
           )
         }
-        {
+        <!-- {
           phone && (
             <a
               href={`mailto:${phone}`}
@@ -58,7 +60,7 @@ const SOCIAL_ICONS: Record<string, any> = {
               <Phone />
             </a>
           )
-        }
+        } -->
         {
           profiles.map(({ network, url, username }) => {
             const Icon = SOCIAL_ICONS[network];

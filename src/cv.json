@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Michael Stiven Coral",
-    "label": "Developer & Creador 3D",
+    "name": "Michael Stiven Coral Bravo",
+    "label": "Computer Engineering Student",
     "image": "https://avatars.githubusercontent.com/u/83738249?s=400&u=3248eda8c78c4491a43650feffdd823372776469&v=4",
     "email": "maicolcoralbravo@gmail.com",
     "phone": "+57 3229443506",
     "url": "https://datasoftcolll.com",
-    "summary": "Tomamos ideas de ficción entre cómics, películas y videojuegos para crear prototipos reales funcionales como una forma de inspirar a los jóvenes en el campo de la ciencia, la tecnología y la ingeniería.",
+    "summary": "Soy un apasionado en desarrollo de software con una solida formación en tecnología en análisis y desarrollo de sistemas de información. Soy estudiante de la carrera de Ingeniería informática, mi experiencia y habilidades obtenidas de mi universidad abarcan diversas áreas clave, lo que me permite ser un recurso versátil y valioso en proyectos de software.",
     "location": {
       "address": "Nariño city",
       "postalCode": "32002",
-      "city": "San Juan de Pasto",
+      "city": "Linares-Nariño",
       "countryCode": "ES",
       "region": " Colombia"
     },
@@ -24,38 +24,27 @@
         "network": "GitHub",
         "username": "Mai1203",
         "url": "https://github.com/Mai1203"
+      },
+      {
+        "network": "Whatsapp",
+        "username": "Maicol Coral",
+        "url": "https://wa.me/3229443506"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Maicol Coral",
+        "url": "www.linkedin.com/in/maicol-coral-3626a4251"
       }
     ]
   },
   "work": [
     {
-      "name": "BrainScan",
-      "position": "Programación Web",
-      "url": "https://twitch.tv/tecnopolis",
+      "name": "Desarrollo de un Software Sistema de Ventas",
+      "position": "Programación en Java",
+      "url": null,
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Espectador",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Ade",
-      "position": "Lead Frontend Architect",
-      "url": "https://t",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Descripcion la informa.",
+      "summary": "Aprendiz",
       "highlights": [
         "Started the company"
       ]
@@ -77,12 +66,24 @@
   "education": [
     {
       "institution": "Corporación Universitaria Autónoma de Nariño",
-      "url": "https://www.uo/index.html",
-      "area": "Ingeniero de Informático",
+      "url": "https://www.aunar.edu.co/",
+      "area": "Ingeniero Informático",
       "studyType": "Bachelor",
-      "startDate": "2020-01-01",
-      "endDate": "2025-01-01",
-      "score": "4.0",
+      "startDate": "2020-02-01",
+      "endDate": null,
+      "score": "4.7",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Curso Desarrollo Web con HTML5, CSS3, JS AJAX PHP y MySQL",
+      "url": "https://www.udemy.com/",
+      "area": "Udemy",
+      "studyType": "Bachelor",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "score": "4.8",
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -149,16 +150,6 @@
         "Frontend",
         "CSS Framework",
         "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
       ]
     },
     {
@@ -249,66 +240,47 @@
   ],
   "projects": [
     {
-      "name": "codes",
+      "name": "nextjs-dashboard",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto de aprendizaje con Next.js",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Next.js",
+        "Aprendizaje"
       ],
       "url": "https:odes"
     },
     {
-      "name": "programacion",
+      "name": "API_CRUD",
       "isActive": true,
-      "description": "Retos",
+      "description": "Proyecto de aprendizaje sobre las APIs y sus usos(CRUD), conectado a una base de datos",
       "highlights": [
-        "millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "API",
+        "MongoDB",
+        "CRUD"
       ],
       "url": "demos en linea"
     },
     {
-      "name": "proyetosdesarrollo",
+      "name": "Tienda",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Programa web para la base tienda de productos.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Node.js",
+        "tienda"
       ],
       "url": "demos en lineas://proyetosdesarrollo.dev"
     },
     {
-      "name": "link",
+      "name": "heroes-app",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Aplicación web para el consumo de la API 'superHeroAPI', separando heroes de DC y Marvel",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Vite",
+        "API",
+        "React"
       ],
       "url": "demos en lineas://codi.link",
       "github": "demos en lineas:/nk"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500"
-      ],
-      "url": "demos en lineas://pruebastecnicas.com",
-      "github": "www."
-    },
-    {
-      "name": "ponencia",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "demos en lineas://paginaweb.com"
     }
   ]
 }
