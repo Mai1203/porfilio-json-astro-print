@@ -251,6 +251,17 @@
   ],
   "projects": [
     {
+      "name": "clima-app",
+      "isActive": true,
+      "description": "Aplicación web para el diseño de un clima de la ciudad de Pasto.",
+      "highlights": [
+        "Astro",
+        "API"
+      ],
+      "url": "https://clima-k17jysja0-stivens-projects-72387979.vercel.app/",
+      "github": "demos en lineas:/nk"
+    },
+    {
       "name": "nextjs-dashboard",
       "isActive": true,
       "description": "Proyecto de aprendizaje con Next.js",
@@ -280,17 +291,6 @@
         "tienda"
       ],
       "url": "https://github.com/Mai1203/tienda"
-    },
-    {
-      "name": "clima-app",
-      "isActive": true,
-      "description": "Aplicación web para el diseño de un clima de la ciudad de Pasto.",
-      "highlights": [
-        "Astro",
-        "API"
-      ],
-      "url": "https://github.com/Mai1203/clima-app",
-      "github": "demos en lineas:/nk"
     }
   ]
 }
