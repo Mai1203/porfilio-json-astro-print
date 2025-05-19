@@ -40,13 +40,24 @@
   "work": [
     {
       "name": "Desarrollo de un Software Sistema de Ventas",
-      "position": "Programación en Java",
+      "position": "Programación en Python",
       "url": null,
-      "startDate": "2021-01-01",
-      "endDate": "2022-10-01",
+      "startDate": "2024-10-01",
+      "endDate": "2025-01-01",
       "summary": "Aprendiz",
       "highlights": [
         "Started the company"
+      ]
+    },
+    {
+      "name": "Practicas Empresariales",
+      "position": "Programación en Next.js",
+      "url": null,
+      "startDate": "2025-02-19",
+      "endDate": "2025-05-08",
+      "summary": "Aprendiz",
+      "highlights": [
+        ""
       ]
     }
   ],
@@ -247,7 +258,7 @@
         "Next.js",
         "Aprendizaje"
       ],
-      "url": "https:odes"
+      "url": "https://github.com/Mai1203/nextjs-dashboard"
     },
     {
       "name": "API_CRUD",
@@ -258,7 +269,7 @@
         "MongoDB",
         "CRUD"
       ],
-      "url": "demos en linea"
+      "url": "https://github.com/Mai1203/API_CRUD"
     },
     {
       "name": "Tienda",
@@ -268,18 +279,17 @@
         "Node.js",
         "tienda"
       ],
-      "url": "demos en lineas://proyetosdesarrollo.dev"
+      "url": "https://github.com/Mai1203/tienda"
     },
     {
-      "name": "heroes-app",
+      "name": "clima-app",
       "isActive": true,
-      "description": "Aplicación web para el consumo de la API 'superHeroAPI', separando heroes de DC y Marvel",
+      "description": "Aplicación web para el diseño de un clima de la ciudad de Pasto.",
       "highlights": [
-        "Vite",
-        "API",
-        "React"
+        "Astro",
+        "API"
       ],
-      "url": "demos en lineas://codi.link",
+      "url": "https://github.com/Mai1203/clima-app",
       "github": "demos en lineas:/nk"
     }
   ]
